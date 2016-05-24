@@ -1,0 +1,13 @@
+{
+  "name": "dbuggr-node-inspector",
+  "version": "0.0.0",
+  "description": "Testing node-inspector regarding its suitability for dbuggr",
+  "author": {
+    "name": "Stefan Lehmann",
+    "email": "stefan.lehmann@hpi.de",
+    "url": "https://github.com/onsetsu"
+  },
+  "dependencies": {
+    "node-inspector": "^0.12.8"
+  }
+}
